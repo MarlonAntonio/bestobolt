@@ -1,0 +1,15 @@
+{
+      "name": "product-gallery-with-login",
+      "version": "1.0.0",
+      "scripts": {
+        "dev": "vite"
+      },
+      "dependencies": {
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "react-router-dom": "^6.10.0"
+      },
+      "devDependencies": {
+        "vite": "^4.2.0"
+      }
+    }
